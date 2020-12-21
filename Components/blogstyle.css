@@ -26,16 +26,11 @@ p{
 
 }
 img{
-    width: 450px;
-    height: 300px;
+    width: 600px;
+    height: 400px;
+    margin: 3%;
 }
-.alignright{
-    float: right;
-}
-.alignleft{
-    float: left;
 
-}
 footer{
     display: flex;
     justify-content: center;
